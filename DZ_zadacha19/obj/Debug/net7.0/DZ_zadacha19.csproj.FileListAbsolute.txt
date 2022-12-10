@@ -1,0 +1,15 @@
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/bin/Debug/net7.0/DZ_zadacha19
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/bin/Debug/net7.0/DZ_zadacha19.deps.json
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/bin/Debug/net7.0/DZ_zadacha19.runtimeconfig.json
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/bin/Debug/net7.0/DZ_zadacha19.dll
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/bin/Debug/net7.0/DZ_zadacha19.pdb
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/DZ_zadacha19.csproj.AssemblyReference.cache
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/DZ_zadacha19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/DZ_zadacha19.AssemblyInfoInputs.cache
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/DZ_zadacha19.AssemblyInfo.cs
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/DZ_zadacha19.csproj.CoreCompileInputs.cache
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/DZ_zadacha19.dll
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/refint/DZ_zadacha19.dll
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/DZ_zadacha19.pdb
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/DZ_zadacha19.genruntimeconfig.cache
+/Users/germanyarenko/С#DZ3/DZ_zadacha19/obj/Debug/net7.0/ref/DZ_zadacha19.dll
