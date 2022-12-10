@@ -1,0 +1,15 @@
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/bin/Debug/net7.0/DZ_zadacha23
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/bin/Debug/net7.0/DZ_zadacha23.deps.json
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/bin/Debug/net7.0/DZ_zadacha23.runtimeconfig.json
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/bin/Debug/net7.0/DZ_zadacha23.dll
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/bin/Debug/net7.0/DZ_zadacha23.pdb
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/DZ_zadacha23.csproj.AssemblyReference.cache
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/DZ_zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/DZ_zadacha23.AssemblyInfoInputs.cache
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/DZ_zadacha23.AssemblyInfo.cs
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/DZ_zadacha23.csproj.CoreCompileInputs.cache
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/DZ_zadacha23.dll
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/refint/DZ_zadacha23.dll
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/DZ_zadacha23.pdb
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/DZ_zadacha23.genruntimeconfig.cache
+/Users/germanyarenko/С#DZ3/DZ_zadacha23/obj/Debug/net7.0/ref/DZ_zadacha23.dll
